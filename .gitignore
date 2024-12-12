@@ -1,0 +1,12 @@
+# PyCharm
+.idea/
+.venv/
+
+# VScode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+desktop.ini
